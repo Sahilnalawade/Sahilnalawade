@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=858585&lines=I+am+an+AI+Enthusiast;I+am+Intreseted+in+projects +for+Semantic+Segmentation+Instance+Segmentation+Super+Resolution+Image+Classification;Data+Scientist+at+HARVARD+/+DanaFarber+Cancer+Institute)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color='B87333'&lines=I+am+an+AI+Enthusiast...!;Expertise+in+Deep+Learning+and+Machine+Learning+Frameworks...!;Worked+on+Semantic+Segmentation+!;Worked+on+Instance+Segmentation+!;Worked+on+Super+Resolution+!;Data+Scientist+at+HARVARD+/+DFCI...!&font=Fira%20Code&center=true&width=800&height=50">
+</p>
 
 <h3 align="center">I am a Data Scientist at Harvard / Dana-Farber Cancer Institute </h3>
 
