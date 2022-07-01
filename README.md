@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilnalawade&label=Profile%20views&color=0e75b6&style=flat" alt="sahilnalawade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilnalawade" alt="sahilnalawade" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@nalwade" target="blank"><img src="https://img.shields.io/twitter/follow/@nalwade?logo=twitter&style=for-the-badge" alt="@nalwade" /></a> </p>
 
 - 🔭 I’m currently working on [Segmentation Projects](https://link.springer.com/chapter/10.1007/978-3-030-72084-1_40)
@@ -68,3 +66,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilnalawade&show_icons=true&locale=en" alt="sahilnalawade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilnalawade&" alt="sahilnalawade" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilnalawade" alt="sahilnalawade" /></a> </p>
+
+
