@@ -18,15 +18,15 @@
 
 - 🤝 I’m looking for help with [Federated Learning Projects](https://github.com/mlcommons/medical)
 
-- 👨‍💻 All of my projects are available at [https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate)
+- 👨‍💻 All of my projects are available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate)
 
-- 📝 I regularly write articles on [https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate)
+- 📝 I regularly write [Researh articles](https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate)
 
 - 💬 Ask me about **Python, R and Matlab**
 
 - 📫 How to reach me **sahil123@gmail.com**
 
-- 📄 Know about my experiences [https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=NyYGcy8AAAAJ&view_op=list_works&sortby=pubdate)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sahilnalawade/)
 
 - ⚡ Fun fact **I like to cook food during free time**
 
