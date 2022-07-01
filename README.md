@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&color=858585&lines=I+am+an+AI+Enthusiast+and+Intreseted+in+projects +for+Semantic+Segmentation+Instance+Segmentation+Super+Resolution+Image+Classification;Data+Scientist+at+Dana-Farber+Cancer+Institute)](https://git.io/typing-svg)
+
 <h3 align="center">I am a Data Scientist at Harvard / Dana-Farber Cancer Institute </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilnalawade&label=Profile%20views&color=0e75b6&style=flat" alt="sahilnalawade" /> </p>
