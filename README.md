@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sahil nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahil nalawade" height="30" width="40" /></a>
-<a href="https://dev.to/sahil nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahil nalawade" height="30" width="40" /></a>
+<a href="https://dev.to/sahil_nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahil nalawade" height="30" width="40" /></a>
 <a href="https://twitter.com/@nalwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nalwade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil nalawade" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sahil nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sahil nalawade" height="30" width="40" /></a>
