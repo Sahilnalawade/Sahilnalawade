@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, R and Matlab**
 
-- 📫 How to reach me **sahil123@gmail.com**
+- 📫 How to reach me **sahil.nalawade@@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sahilnalawade/)
 
