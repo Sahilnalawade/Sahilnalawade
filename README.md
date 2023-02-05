@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilnalawade&label=Profile%20views&color=0e75b6&style=flat" alt="sahilnalawade" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@nalwade" target="blank"><img src="https://img.shields.io/twitter/follow/@nalwade?logo=twitter&style=for-the-badge" alt="nalwade" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nalwade" target="blank"><img src="https://img.shields.io/twitter/follow/@nalwade?logo=twitter&style=for-the-badge" alt="@nalwade" /></a> </p>
 
 - 🔭 I’m currently working on [Segmentation Projects](https://link.springer.com/chapter/10.1007/978-3-030-72084-1_40)
 
